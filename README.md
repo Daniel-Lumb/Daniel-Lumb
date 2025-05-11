@@ -1,7 +1,8 @@
 ![Github Banner](https://github.com/user-attachments/assets/09b693ce-4bf1-4fac-bd5c-fdd6744522c6)
 
 <h1 align="center">Hi there 👋 i'm Daniel Lumb</h1>
-<h3 align="center">🎓 Final-year Software Development student at **Belgium Campus ITversity** 📍 Based in South Africa</h3>
+<h3 align="center">🎓 Final-year Software Development student at **Belgium Campus ITversity** 
+ 📍 Based in South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-lumb&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-lumb" /> </p>
 

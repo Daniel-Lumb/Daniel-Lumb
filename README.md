@@ -15,7 +15,7 @@
 - 📊 Data Analytics
 - 📱 App Development
 - 🧠 Exploring IoT & more
-- I'm passionate about building useful, real-world applications and continually improving my skills across the stack.**
+**I'm passionate about building useful, real-world applications and continually improving my skills across the stack.**
 
 - 📫 How to reach me **danieljames.lumb@gmail.com**
 
